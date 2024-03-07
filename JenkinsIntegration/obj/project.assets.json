@@ -12844,11 +12844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration\\JenkinsIntegration.csproj",
+      "projectUniqueName": "E:\\JenkinsIntegration\\JenkinsIntegration\\JenkinsIntegration.csproj",
       "projectName": "JenkinsIntegration",
-      "projectPath": "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration\\JenkinsIntegration.csproj",
+      "projectPath": "E:\\JenkinsIntegration\\JenkinsIntegration\\JenkinsIntegration.csproj",
       "packagesPath": "C:\\Users\\AHMED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration\\obj\\",
+      "outputPath": "E:\\JenkinsIntegration\\JenkinsIntegration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AHMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12865,8 +12865,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
-              "projectPath": "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj"
+            "E:\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
+              "projectPath": "E:\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj"
             }
           }
         }

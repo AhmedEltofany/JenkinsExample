@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {}
+    "E:\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
+    "E:\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
+        "projectUniqueName": "E:\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
         "projectName": "JenkinsIntegration.Services",
-        "projectPath": "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
+        "projectPath": "E:\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
         "packagesPath": "C:\\Users\\AHMED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AHMED\\source\\repos\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\obj\\",
+        "outputPath": "E:\\JenkinsIntegration\\JenkinsIntegration.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AHMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
